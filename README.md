@@ -11,3 +11,7 @@
 04_dictionaries https://colab.research.google.com/drive/1WCenULQkynfh5O5Utq50Raa3VSapgy_s?usp=sharing
 
 05_loops_control_flow https://colab.research.google.com/drive/1rJFzpdznRcd6ZuffzoFc553UbbS91X03?usp=sharing
+
+06_functions https://colab.research.google.com/drive/1vaETBzjUczSD2p16jRxAht5IXETWYR1x?usp=sharing
+
+07_information_flow https://colab.research.google.com/drive/1X94UPqCr1x2maEVcVRr3pK7iB_sehgDi?usp=sharing
